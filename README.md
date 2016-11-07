@@ -6,7 +6,7 @@ that mocking will take place before any require statements are resolved/run. Thi
 capabilities really powerful! It essentially means that you can import all the stuff you would normally, and not worry
 about whether you're mocking things in time. Pretty legit!
 
-And Christoph comes in to give a little more insight here :) Looks like you can use `jest.doMock` or `jest.dontMock` to
-change this behavior.
+And Christoph [comes in](https://twitter.com/cpojer/status/795729860819820544) to give a little more insight here :)
+Looks like you can use `jest.doMock` or `jest.dontMock` to change this behavior.
 
 ![tweets](tweets.png)
