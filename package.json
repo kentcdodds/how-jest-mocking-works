@@ -1,0 +1,14 @@
+{
+  "name": "how-jest-mocking-works",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:kentcdodds/how-jest-mocking-works.git",
+    "type": "git"
+  },
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "jest-cli": "^16.0.2"
+  }
+}
